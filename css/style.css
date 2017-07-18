@@ -57,7 +57,17 @@ html body {
 	font-family: Helvetica, Arial, sans-serif;
 }
 
-header {
+h2 {
+	color: #EF8319;
+	text-align: right;
+}
+
+.container {
+	background-color: #c6c6c6;
+	margin: 0;
+}
+
+header .container {
 	background-color: #EF8319;
 	color: white;
 	padding-top: .5em;
@@ -73,7 +83,7 @@ header h1 {
 	display: inline-block;
 }
 
-.instructions{
+.container .instructions{
 	border-style: solid;
 	border-color: #e89138;
 	border-width: 3px;

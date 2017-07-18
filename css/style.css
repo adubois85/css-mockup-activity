@@ -96,7 +96,7 @@ section span {
 	font-weight: bold;
 }
 
-.pull-left img {
+img[src="images/stunning.jpg"] {
 	width: auto;
 	height: auto;
 	max-width: 300px;

@@ -107,5 +107,10 @@ section span {
 
 footer {
 	background-color: black;
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+footer h4 {
 	color: lightgrey;
 }

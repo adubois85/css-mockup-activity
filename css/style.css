@@ -60,11 +60,14 @@ html body {
 header {
 	background-color: #EF8319;
 	color: white;
+	padding-top: .5em;
+	margin-right: .5em;
+	margin-left: .5em;
 }
 
 header h1 {
 	font-size: 4rem;
-	;
+	float: left;
 }
 
 .instructions{

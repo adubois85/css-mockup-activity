@@ -79,9 +79,13 @@ header h1 {
 .instructions img {
 	width: auto;
 	height: auto;
-	max-width: 300px;
-	max-height: 300px;
+	max-width: 250px;
+	max-height: 250px;
 	border: solid #c6c6c6 2px;
+	padding-top: 50%;
+	padding-right: 50%;
+	padding-bottom: 50%;
+
 }
 
 .instructions .pull-right {
@@ -102,7 +106,7 @@ img[src="images/stunning.jpg"] {
 	max-width: 300px;
 	max-height: 300px;
 	float: left;
-	background-color: #c6c6c6;
+	border: solid white 2px;
 }
 
 table ~ h2 {

@@ -66,12 +66,20 @@ header h1 {
 	border-style: solid;
 	border-color: orange;
 	border-width: 3px;
+	color: orange;
 }
 
-.pull-right {
+.instructions img {
+	width: auto;
+	height: auto;
+	max-width: 300px;
+	max-height: 300px;
+}
+
+.instructions .pull-right {
 	float: right;
 }
 
-.pull-left {
+.instructions .pull-left {
 	float: left;
 }

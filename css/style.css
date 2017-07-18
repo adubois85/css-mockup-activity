@@ -101,8 +101,13 @@ section span {
 	height: auto;
 	max-width: 300px;
 	max-height: 3000px;
-	/* display: inline-bloc;
-	background-color: #c6c6c6;*/
+	display: inline-block;
+	background-color: #c6c6c6;
+}
+
+table ~ h2 {
+	color: #EF8319;
+	display: inline-block;
 }
 
 footer {
@@ -113,4 +118,5 @@ footer {
 
 footer h4 {
 	color: #8c8c8c;
+	font-weight: normal;
 }

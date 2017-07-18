@@ -81,7 +81,7 @@ header h1 {
 	height: auto;
 	max-width: 300px;
 	max-height: 300px;
-	border: solid lightgrey 2px;
+	border: solid #c6c6c6 2px;
 }
 
 .instructions .pull-right {
@@ -102,7 +102,7 @@ section span {
 	max-width: 300px;
 	max-height: 3000px;
 	/* display: inline-bloc;
-	background-color: lightgrey;*/
+	background-color: #c6c6c6;*/
 }
 
 footer {
@@ -112,5 +112,5 @@ footer {
 }
 
 footer h4 {
-	color: red;
+	color: #8c8c8c;
 }

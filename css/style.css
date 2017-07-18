@@ -58,7 +58,7 @@ html body {
 }
 
 header {
-	background-color: orange;
+	background-color: #EF8319;
 	color: white;
 }
 
@@ -68,9 +68,9 @@ header h1 {
 
 .instructions{
 	border-style: solid;
-	border-color: orange;
+	border-color: #EF8319;
 	border-width: 3px;
-	color: orange;
+	color: #EF8319;
 }
 
 .instructions img {

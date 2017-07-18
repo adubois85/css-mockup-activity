@@ -82,9 +82,9 @@ header h1 {
 	max-width: 250px;
 	max-height: 250px;
 	border: solid #c6c6c6 2px;
-	padding-top: 50%;
-	padding-right: 50%;
-	padding-bottom: 50%;
+	margin-top: 25%;
+	margin-right: 25%;
+	margin-bottom: 25%;
 
 }
 

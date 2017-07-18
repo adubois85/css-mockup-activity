@@ -69,9 +69,9 @@ header h1 {
 
 .instructions{
 	border-style: solid;
-	border-color: #EF8319;
+	border-color: #e89138;
 	border-width: 3px;
-	color: #EF8319;
+	color: #e89138;
 	margin-top: 3rem;
 	margin-bottom: 3rem;
 }
@@ -110,7 +110,7 @@ img[src="images/stunning.jpg"] {
 }
 
 table ~ h2 {
-	color: #EF8319;
+	color: #e89138;
 	display: inline-block;
 }
 

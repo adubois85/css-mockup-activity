@@ -101,6 +101,11 @@ section span {
 	height: auto;
 	max-width: 300px;
 	max-height: 3000px;
-	display: inline-block;
-	background-color: lightgrey;
+	/* display: inline-bloc;
+	background-color: lightgrey;*/
+}
+
+footer {
+	background-color: black;
+	color: lightgrey;
 }

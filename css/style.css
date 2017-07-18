@@ -71,9 +71,9 @@ header h1 {
 	border-style: solid;
 	border-color: #e89138;
 	border-width: 3px;
+	font-size: 115%;
 	color: #e89138;
-	margin-top: 3rem;
-	margin-bottom: 3rem;
+	padding: 2em 2em 2em 2em;
 }
 
 .instructions img {

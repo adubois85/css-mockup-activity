@@ -64,7 +64,7 @@ header {
 
 header h1 {
 	font-size: 4rem;
-	float: left;
+	;
 }
 
 .instructions{
@@ -90,4 +90,12 @@ header h1 {
 
 .instructions .pull-left {
 	float: left;
+}
+
+section p {
+	background-color: lightgrey;
+}
+
+section span {
+	font-weight: bold;
 }

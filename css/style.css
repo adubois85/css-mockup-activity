@@ -92,10 +92,15 @@ header h1 {
 	float: left;
 }
 
-section p {
-	background-color: lightgrey;
-}
-
 section span {
 	font-weight: bold;
+}
+
+.pull-left img {
+	width: auto;
+	height: auto;
+	max-width: 300px;
+	max-height: 3000px;
+	display: inline-block;
+	background-color: lightgrey;
 }

@@ -63,7 +63,8 @@ header {
 }
 
 header h1 {
-	font-size: 1rem;
+	font-size: 4rem;
+	float: left;
 }
 
 .instructions{
@@ -71,6 +72,8 @@ header h1 {
 	border-color: #EF8319;
 	border-width: 3px;
 	color: #EF8319;
+	margin-top: 3rem;
+	margin-bottom: 3rem;
 }
 
 .instructions img {

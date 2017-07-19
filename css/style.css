@@ -63,7 +63,7 @@ h2 {
 }
 
 .container {
-	background-color: #c6c6c6;
+	background-color: #D3D3D3;
 	margin: 0;
 	background-clip: content-box;
 }
@@ -155,7 +155,7 @@ footer {
 }
 
 footer h4 {
-	color: #8c8c8c;
+	color: #989898;
 	background-color: black;
 	font-weight: 400;
 	padding-left: 1.2em;

@@ -85,6 +85,7 @@ header h1 {
 }
 
 .container .instructions{
+	background-color: white;
 	border-style: solid;
 	border-color: #e89138;
 	border-width: 3px;
@@ -92,6 +93,11 @@ header h1 {
 	color: #e89138;
 	font-weight: bold;
 	padding: 2em;
+}
+
+.instructions h2 {
+	background-color: white;
+	text-align: left;
 }
 
 .instructions img {

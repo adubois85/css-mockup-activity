@@ -62,10 +62,8 @@ h2 {
 	text-align: right;
 }
 
-.container {
+section:nth-child(2) {
 	background-color: #D3D3D3;
-	margin: 0;
-	background-clip: content-box;
 }
 
 header .container {
@@ -85,7 +83,6 @@ header h1 {
 }
 
 .container .instructions{
-	background-color: white;
 	border-style: solid;
 	border-color: #e89138;
 	border-width: 3px;
@@ -96,7 +93,6 @@ header h1 {
 }
 
 .instructions h2 {
-	background-color: white;
 	text-align: left;
 }
 
@@ -156,8 +152,12 @@ footer {
 
 footer h4 {
 	color: #989898;
-	background-color: black;
 	font-weight: 400;
 	padding-left: 1.2em;
 	font-size: 104%;
+}
+
+img + h2 {
+	text-align: left;
+	color: #585858
 }

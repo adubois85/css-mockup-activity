@@ -65,6 +65,7 @@ h2 {
 .container {
 	background-color: #c6c6c6;
 	margin: 0;
+	background-clip:content-box;
 }
 
 header .container {
@@ -130,6 +131,10 @@ table ~ h2 {
 	display: inline-block;
 }
 
+tr:first-of-type {
+	font-weight: bold;
+}
+
 footer {
 	background-color: black;
 	padding-top: 2em;
@@ -138,5 +143,6 @@ footer {
 
 footer h4 {
 	color: #8c8c8c;
+	background-color: black;
 	font-weight: normal;
 }

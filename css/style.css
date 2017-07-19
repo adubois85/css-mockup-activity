@@ -65,15 +65,16 @@ h2 {
 .container {
 	background-color: #c6c6c6;
 	margin: 0;
-	background-clip:content-box;
+	background-clip: content-box;
 }
 
 header .container {
 	background-color: #EF8319;
 	color: white;
 	width: 100%;
-	margin-left: 0;
+	padding-left: 0;
 	margin-bottom: 5em;
+	text-indent: 1.5em;
 	font-weight: 100;
 }
 
@@ -144,6 +145,7 @@ tr {
 
 tr:first-of-type {
 	font-weight: bold;
+	text-align: left;
 }
 
 footer {

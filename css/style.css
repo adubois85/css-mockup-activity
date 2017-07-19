@@ -131,9 +131,15 @@ img[src="images/stunning.jpg"] {
 	border: solid white 2px;
 }
 
-table ~ h2 {
-	color: #e89138;
-	display: inline-block;
+table {
+	width: 100%;
+	text-indent: 2em;
+}
+
+tr {
+	color: white;
+	background-color: #ef8319;
+	height: 3em;
 }
 
 tr:first-of-type {

@@ -163,8 +163,10 @@ footer h4 {
 }
 
 img + h2 {
+	font-size: 190%;
 	text-align: left;
-	color: #585858
+	color: #585858;
+	padding-top: 2.5em;
 }
 
 p {
